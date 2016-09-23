@@ -11,6 +11,8 @@ base:
 
     - ruby
     - r
+    - python-dev
+    - salt-lint
     - php
 
     - composer
